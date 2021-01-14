@@ -1,0 +1,112 @@
+body {
+  background-color: #f6f6f6.;
+}
+
+#painting{  
+  height: 400px;
+  width: 400px;
+  background-color: #fff4db; 
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 2px 2px 8px 8px;
+ }
+
+ #toprow{
+  height: 290px;
+ }
+
+ #redbox{
+  height: 290px;
+  width: 290px;
+ }
+
+ .red{
+  background-color: red;
+ }
+
+.blue{
+  background-color: blue;
+ }
+
+ .yellow{
+  background-color: yellow;
+ }
+
+ .black{
+  background-color: black;
+ }
+
+ .right{
+  float: right;
+ }
+
+.left{
+  float: left;
+ }
+
+ #topdivider{
+  height: 290px;
+  width: 10px;
+ }
+
+ #topleftcolumn{
+  height: 290px;
+  width: 100px;
+ }
+
+ .mediumbox{
+  height: 140px;
+  width: 110px;
+ }
+
+ #divider2{
+  height: 10px;
+  width: 110px;
+ }
+
+ #middledivider{
+  height: 10px;
+  width: 400px;
+ }
+
+ #bottomrow{
+ }
+
+ #bluebox{
+  height: 100px;
+  width: 110px;
+  float:left;
+ }
+
+ #divider3{
+  height: 100px;
+  width: 10px;
+  float:left;
+ }
+
+ #bottomwidebox{
+  height: 100px;
+  width: 240px;
+  float: left;
+ }
+
+ #divider4{
+  height: 100px;
+  width: 10px;
+  float: left;
+ }
+
+ #divider5{
+  height: 10px;
+  width: 30px;
+ }
+
+ #totheright{
+ }
+
+ .smolbox{
+  height: 45px;
+  width: 30px;
+  background-color: green;
+ }
